@@ -55,7 +55,6 @@ RegisterNumber: 212225040502
 
 **Timing diagram: **
 <img width="1917" height="1078" alt="646134263-be482534-19ac-4498-b055-0d5ef64f052f" src="https://github.com/user-attachments/assets/c5b6d20a-5c03-4d39-ad8b-efa6948ae8d6" />
-
 ** RESULT:**
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
